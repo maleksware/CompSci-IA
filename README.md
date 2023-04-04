@@ -10,4 +10,4 @@ The criterions are located in the corresponding markdown files in the root folde
 
 The link to the production IA repository will be available here. The project is located in a separate repository for technical reasons.
 
-It is also not a great idea to put the IA documentation into the same place as the working project on production because of possible confusions and preprocessing errors.
+It is also not a great idea to put the IA documentation into the same place as the working project on production because of possible confusions and preprocessing errors. The errors will come out as the project will be deployed directly from the GitHub repository, and it is technically easier and more practical in terms of implementation and adding IA documentation to deployment exceptions.
